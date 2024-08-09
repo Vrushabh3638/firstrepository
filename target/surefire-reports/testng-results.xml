@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-09T02:55:29 PDT" name="Suite" finished-at="2024-08-09T02:55:43 PDT" duration-ms="14656">
+    <groups>
+    </groups>
+    <test started-at="2024-08-09T02:55:29 PDT" name="Test" finished-at="2024-08-09T02:55:43 PDT" duration-ms="14656">
+      <class name="api.test.Usertest_propertyfile">
+        <test-method is-config="true" signature="setup()[pri:0, instance:api.test.Usertest_propertyfile@5fdcaa40]" started-at="2024-08-09T02:55:29 PDT" name="setup" finished-at="2024-08-09T02:55:31 PDT" duration-ms="1757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testpostuser()[pri:1, instance:api.test.Usertest_propertyfile@5fdcaa40]" started-at="2024-08-09T02:55:31 PDT" name="testpostuser" finished-at="2024-08-09T02:55:37 PDT" duration-ms="6341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpostuser -->
+        <test-method signature="testgetuser()[pri:2, instance:api.test.Usertest_propertyfile@5fdcaa40]" started-at="2024-08-09T02:55:37 PDT" name="testgetuser" finished-at="2024-08-09T02:55:39 PDT" duration-ms="1804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgetuser -->
+        <test-method signature="testupdateuser()[pri:3, instance:api.test.Usertest_propertyfile@5fdcaa40]" started-at="2024-08-09T02:55:39 PDT" name="testupdateuser" finished-at="2024-08-09T02:55:42 PDT" duration-ms="2574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testupdateuser -->
+        <test-method signature="testdeleteuser()[pri:4, instance:api.test.Usertest_propertyfile@5fdcaa40]" started-at="2024-08-09T02:55:42 PDT" name="testdeleteuser" finished-at="2024-08-09T02:55:43 PDT" duration-ms="1752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdeleteuser -->
+      </class> <!-- api.test.Usertest_propertyfile -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

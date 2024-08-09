@@ -1,0 +1,25 @@
+11:54:53.429 [main] INFO  api.test.UserTest - interred in 1st test
+11:54:57.484 [main] INFO  api.test.UserTest - completed
+11:54:57.515 [main] INFO  api.test.UserTest - reading
+11:54:58.802 [main] INFO  api.test.UserTest - updating 
+11:55:00.115 [main] INFO  api.test.UserTest - Deleted
+11:56:14.523 [main] INFO  api.test.UserTest - interred in 1st test
+11:56:18.913 [main] INFO  api.test.UserTest - completed
+11:56:18.939 [main] INFO  api.test.UserTest - reading
+11:56:20.728 [main] INFO  api.test.UserTest - updating 
+11:56:21.850 [main] INFO  api.test.UserTest - Deleted
+23:09:27.368 [main] INFO  api.test.Usertest_propertyfile - interred in 1st test
+23:09:32.453 [main] INFO  api.test.Usertest_propertyfile - completed
+23:09:32.534 [main] INFO  api.test.Usertest_propertyfile - reading
+23:09:34.998 [main] INFO  api.test.Usertest_propertyfile - updating 
+23:09:38.465 [main] INFO  api.test.Usertest_propertyfile - Deleted
+02:55:01.070 [main] INFO  api.test.Usertest_propertyfile - interred in 1st test
+02:55:06.424 [main] INFO  api.test.Usertest_propertyfile - completed
+02:55:06.444 [main] INFO  api.test.Usertest_propertyfile - reading
+02:55:07.760 [main] INFO  api.test.Usertest_propertyfile - updating 
+02:55:09.217 [main] INFO  api.test.Usertest_propertyfile - Deleted
+02:55:31.470 [main] INFO  api.test.Usertest_propertyfile - interred in 1st test
+02:55:37.802 [main] INFO  api.test.Usertest_propertyfile - completed
+02:55:37.824 [main] INFO  api.test.Usertest_propertyfile - reading
+02:55:39.634 [main] INFO  api.test.Usertest_propertyfile - updating 
+02:55:42.211 [main] INFO  api.test.Usertest_propertyfile - Deleted
